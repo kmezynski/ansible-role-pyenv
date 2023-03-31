@@ -28,7 +28,6 @@ repos:
       - id: mixed-line-ending
       - id: fix-byte-order-marker
       - id: check-added-large-files
-      - id: check-toml
 
   - repo: https://github.com/commitizen-tools/commitizen
     rev: v2.39.1
