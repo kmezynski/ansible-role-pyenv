@@ -55,7 +55,7 @@ Above variables configures Pyenv after it is installed:
   shell.
 - `pyenv_default_python` - Python version to be set as a default interpreter.
 - `pyenv_python_versions` - list of Python versions, supported by given version
-  of Pyenv, to be installed on the server. 
+  of Pyenv, to be installed on the server.
 
 ```yaml
 pyenv_plugins:
