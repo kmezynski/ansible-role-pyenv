@@ -1,3 +1,6 @@
+[![CI](https://github.com/kmezynski/ansible-role-pyenv/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/kmezynski/ansible-role-pyenv/actions/workflows/ci.yml)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/kmezynski/ansible-role-pyenv/master.svg)](https://results.pre-commit.ci/latest/github/kmezynski/ansible-role-pyenv/master)
+
 # Ansible Role: Pyenv
 
 Installs and configures [Pyenv](https://github.com/pyenv/pyenv) with
