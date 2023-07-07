@@ -42,6 +42,7 @@ repos:
     rev: v6.14.4
     hooks:
       - id: ansible-lint
+        exclude: (?x)^(.github/ISSUE_TEMPLATE/*)$
 
   - repo: https://github.com/adrienverge/yamllint.git
     rev: v1.30.0
